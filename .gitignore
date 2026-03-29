@@ -1,0 +1,16 @@
+# Large data files — too big for GitHub
+*.csv
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environment
+.env
+.conda/
+
+# Mac
+.DS_Store
