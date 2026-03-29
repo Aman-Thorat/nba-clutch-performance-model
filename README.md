@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🏀 NBA Clutch Player Performance Model
 
 A data science project that identifies and predicts "clutch" performance in NBA players using 1M+ shots across 5 seasons (2019–2023).
